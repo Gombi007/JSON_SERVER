@@ -1,31 +1,15 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "Big Tom",
-      "email": "bigtom@gmail.com"
+      "name": "Próba Tamás",
+      "email": "probatamas@gmail.com",
+      "id": 1
     },
     {
-      "id": 1,
-      "name": "Big Tom",
-      "email": "bigtom@gmail.com"
-    },
-    {
-      "id": 1,
-      "name": "Big Tom",
-      "email": "bigtom@gmail.com"
-    },
-    {
-      "id": 1,
-      "name": "Big Tom",
-      "email": "bigtom@gmail.com"
+      "name": "Jack Smith",
+      "email": "jascksmith@gmail.com",
+      "id": 2
     }
   ],
-  "comment": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "userId": 1
-    }
-  ]
+  "comment": []
 }
